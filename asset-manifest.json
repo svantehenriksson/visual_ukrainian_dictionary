@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/visual_ukrainian_dictionary/static/css/main.469f7a7c.css",
+    "main.js": "/visual_ukrainian_dictionary/static/js/main.f277992d.js",
+    "static/js/453.cd420d2a.chunk.js": "/visual_ukrainian_dictionary/static/js/453.cd420d2a.chunk.js",
+    "index.html": "/visual_ukrainian_dictionary/index.html",
+    "main.469f7a7c.css.map": "/visual_ukrainian_dictionary/static/css/main.469f7a7c.css.map",
+    "main.f277992d.js.map": "/visual_ukrainian_dictionary/static/js/main.f277992d.js.map",
+    "453.cd420d2a.chunk.js.map": "/visual_ukrainian_dictionary/static/js/453.cd420d2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.469f7a7c.css",
+    "static/js/main.f277992d.js"
+  ]
+}
